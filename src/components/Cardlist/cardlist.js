@@ -15,6 +15,16 @@ const cardlist = [
     country: 'USA',
     text: 'Learn Wedding Photography',
     price: '10,500'
+  },
+  {
+    img: 'https://www.athletespeakers.com/storage/celebrities/1627410490_Katie-Zaferes-Banner-1.jpg',
+    rating: '5.0',
+    reviewCount: '6',
+    country: 'New',
+    text: 'Life lessons with Katie Zaferes',
+    price: '11,275'
   }
 
 ]
+
+export default cardlist;

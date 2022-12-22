@@ -1,8 +1,7 @@
 import React from "react";
 import Navbar from "./components/Navbar/Navbar"
 import Hero from "./components/Hero/Hero"
-// import Card from "./components/Card/Card";
-import List from './components/Cardlist/List.jsx'
+import List from './components/Cardlist/List'
 
 const App = () => {
   return (
