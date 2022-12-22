@@ -1,0 +1,30 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+}
+
+.photo-grid {
+  flex: 1;
+  margin: 10px;
+  align-self: center;
+  object-fit: contain;
+}
+
+.hero-header {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  max-width: 900px;
+}
+
+.hero-title {
+  flex: 1;
+  font-size: 40px;
+  margin-left: 20px;
+}
+
+.hero-subtitle {
+  font-size: 30px;
+  flex: 1;
+  margin-left: 20px;
+}
