@@ -5,7 +5,8 @@ const cardlist = [
     count: '6',
     country: 'USA',
     text: 'Life lessons with Katie Zaferes',
-    price: '11,275'
+    price: '11,275',
+    openSpots: 0
   },
 
   {
@@ -14,7 +15,8 @@ const cardlist = [
     count: '30',
     country: 'USA',
     text: 'Learn Wedding Photography',
-    price: '10,500'
+    price: '10,500',
+    openSpots: 29
   },
   {
     url: 'https://www.athletespeakers.com/storage/celebrities/1627410490_Katie-Zaferes-Banner-1.jpg',
@@ -22,7 +24,8 @@ const cardlist = [
     count: '6',
     country: 'New ',
     text: 'Life lessons with Katie Zaferes',
-    price: '11,275'
+    price: '11,275',
+    openSpots: 0
   }
 
 ]
